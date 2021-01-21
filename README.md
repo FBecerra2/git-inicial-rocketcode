@@ -1,2 +1,2 @@
-# Descripcion del projecto
+# Descripcion del proyecto.
 -
